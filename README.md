@@ -1,1 +1,1 @@
-# password_generator
+# notes_application
